@@ -15,8 +15,7 @@ Bookia is a modern mobile app that brings together your favorite books in one pl
 - 👤 *Profile:* Personalize your experience and manage your reading journey.
 
 
-markdown
-![image alt](https://raw.githubusercontent.com/Maram-Tamer/BookiaApp/57f448da91bca4b79cbece53b9aae52405419771/Home.png)
+![image alt](https://github.com/Maram-Tamer/BookiaApp/blob/main/Homescreen.png?raw=true)
 
 
 ---
